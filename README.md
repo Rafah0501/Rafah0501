@@ -2,9 +2,9 @@
 
 Meu nome é Rafaela Goçalves
 
-*Sou estudante do alura
+-Sou estudante do alura
 
-*Estou usando a plataforarma Github
+-Estou usando a plataforarma Github
 
 
 
